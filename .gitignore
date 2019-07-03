@@ -1,0 +1,18 @@
+# Folders
+bin/
+.settings/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+
+# Project Files #
+*.classpath
+*.project
+*.settings
+*.fxbuild
